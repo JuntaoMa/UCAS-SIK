@@ -1,0 +1,92 @@
+{
+    "File_87": [],
+    "User_18": "",
+    "User_19": "",
+    "User_20": "",
+    "User_27": "",
+    "User_56": "",
+    "User_82": "",
+    "File_103": [],
+    "File_105": [],
+    "File_119": [],
+    "File_126": [],
+    "File_130": [],
+    "File_154": [],
+    "File_191": [],
+    "Input_21": "",
+    "Input_22": "",
+    "Input_23": "",
+    "Input_24": "",
+    "Input_61": "",
+    "Input_69": "",
+    "Radio_81": {
+        "value": "2",
+        "name": "否no (leave school but do not leave Beijing)"
+    },
+    "Input_157": "",
+    "Radio_107": {
+        "value": "1",
+        "name": "出校行程申请Admission and exit itinerary application"
+    },
+    "Radio_139": {
+        "name": "能",
+        "value": "0"
+    },
+    "Calendar_28": "2023-02-05T16:00:00.000Z",
+    "Calendar_30": "2023-02-06T16:15:02+08:00",
+    "Calendar_57": "2023-02-06T16:15:02+08:00",
+    "Checkbox_90": [
+        {
+            "value": "1",
+            "name": "本人郑重承诺   I solemnly promise："
+        }
+    ],
+    "SelectV2_62": [
+        {
+            "value": 3,
+            "name": "3"
+        }
+    ],
+    "SelectV2_97": [
+        {
+            "name": "出校科研Out of school research",
+            "value": "5",
+            "default": 0,
+            "imgdata": ""
+        }
+    ],
+    "ShowHide_58": "",
+    "ShowHide_64": "",
+    "ShowHide_72": "",
+    "Validate_77": "",
+    "Validate_89": "",
+    "Calendar_100": "",
+    "Calendar_117": "",
+    "Calendar_180": "",
+    "Calendar_182": "",
+    "Checkbox_187": [],
+    "SelectV2_111": [],
+    "SelectV2_118": [],
+    "SelectV2_144": [],
+    "SelectV2_185": [],
+    "ShowHide_101": "",
+    "ShowHide_108": "",
+    "Validate_124": "",
+    "Validate_134": "",
+    "Validate_136": "",
+    "Validate_137": "",
+    "DataSource_63": "",
+    "DataSource_66": "",
+    "DataSource_67": "",
+    "Conversion_133": {},
+    "Conversion_135": {},
+    "Conversion_142": {},
+    "DataSource_141": "",
+    "DataSource_158": "",
+    "MultiInput_113": "",
+    "MultiInput_148": "",
+    "MultiInput_150": "",
+    "MultiInput_152": "",
+    "MultiInput_189": "",
+    "RepeatTable_33": ""
+}
